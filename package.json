@@ -1,6 +1,5 @@
 {
-  "homepage": "https://ourshoes.github.io/ourshoes/",
-  "name": "webpro",
+  "name": "ourshoes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
