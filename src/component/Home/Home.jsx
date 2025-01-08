@@ -15,7 +15,7 @@ const Home = ({ setActiveLink }) => {
   };
 
   const text = `
-    Explore our collection of premium footwear designed for ultimate comfort
+    Explore our collection of original footwear designed for ultimate comfort
     and unmatched style. Whether you're looking for casual wear, athletic
     shoes, or elegant designs, we have the perfect match for every occasion.
     Start your journey towards perfect fit and fashion today!
