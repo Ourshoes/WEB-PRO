@@ -14,7 +14,7 @@ const App = () => {
     <Router>
       <Navbar activeLink={activeLink} setActiveLink={setActiveLink} />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<Home setActiveLink={setActiveLink}/>} />
         <Route path="/home" element={<Home setActiveLink={setActiveLink}/>} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
